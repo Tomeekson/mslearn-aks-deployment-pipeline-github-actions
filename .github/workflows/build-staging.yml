@@ -1,4 +1,4 @@
-name: Build and push the tagged build to production
+name: Build and push stagging and the tagged build to production
 
 permissions:
   id-token: write # This is required for requesting the JWT
