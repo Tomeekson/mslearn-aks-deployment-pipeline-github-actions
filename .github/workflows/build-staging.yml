@@ -63,7 +63,6 @@ jobs:
             --create-namespace \
             --atomic \
             --wait \
-            --timeout 10m \
             --namespace staging \
             contoso-website \
             ./kubernetes/contoso-website \
